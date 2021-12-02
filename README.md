@@ -1,2 +1,3 @@
 # MachineLearning-PythonPractice
 机器学习-Python实践书籍对应的Jupyter代码
+看过很多课程和书籍，本书还是基础介绍里面比较全面和系统的，比较建议初期去看
